@@ -43,7 +43,8 @@ An automated dashboard providing quick & latest sales insights in order to suppo
 - Sales analysts stop data gathering manually in order to save 20% of their business time & reinvest it in value added activity.
 
 ### Data Analysis - Approach
-<p  align="center"><a href="https://github.com/mrankitgupta"><img width="80%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/flow.jpg" /></a></p>
+<p  align="center"><a href="https://github.com/VladyslavNyzhnyk![image](https://github.com/VladyslavNyzhnyk/Sales-analysis-with-Tableau/assets/148878903/4dd42d70-8a42-41bd-9c43-dca1d860ea4c)
+"><img width="80%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/flow.jpg" /></a></p>
 
 ### Setup Process
   
